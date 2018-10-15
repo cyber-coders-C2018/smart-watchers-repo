@@ -11,6 +11,8 @@ namespace CalculatorProgram
         static void Main(string[] args)
         {
             Console.WriteLine("This is our wonderful world");
+            Console.WriteLine("This is our wonderful world");          
+            Console.WriteLine("This is our wonderful world");
             Console.WriteLine("This is our wonderful world");
             Console.WriteLine("This is our wonderful world");
         }
